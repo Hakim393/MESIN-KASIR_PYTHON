@@ -1,0 +1,7 @@
+print("Toko Baju Amanah Jaya")
+Nomor1= str(input("masukan nama baju : "))
+Nomor2= int(input("masukan harga baju: "))
+Nomor3= int(input("masukan jumlah baju yang dibeli: "))
+Nomor4= int(input("jumlah uang yang dibayar: "))
+Total= (Nomor2*Nomor3-Nomor4)
+print("total kembalian: ","Rp.",Total)
